@@ -8,12 +8,12 @@ Hello, I'm Manuel González!
 
 ### 👨🏻‍💻 &nbsp;About me
 
-💡 &nbsp;My interest in programming is based on learning and learning.\
-🎓 &nbsp;I studied Computer Engineering at Bernardo O'Higgins University.\
-🌱 &nbsp;I am learning everything to cover many areas of computer science.\
-✍️ &nbsp;In my free time I like to read and play video games.\
-✉️ &nbsp;You can email me at <a href="mailto:manulgb.mg@gmail.com"><img src="https://img.shields.io/badge/-manulgb.mg@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>.\
-📄 &nbsp;Check my [Resume if you need it](https://github.com/Manolith/Presentaci-n/blob/main/_CVMGB.docx.pdf) and feel free to contact me.
+💡&nbsp;My interest in programming is based on learning and learning.\
+🎓&nbsp;I studied Computer Engineering at Bernardo O'Higgins University.\
+🌱&nbsp;I am learning everything to cover many areas of computer science.\
+✍️&nbsp;In my free time I like to read and play video games.\
+✉️&nbsp;You can email me at <a href="mailto:manulgb.mg@gmail.com"><img src="https://img.shields.io/badge/-manulgb.mg@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>.\
+📄&nbsp;Check my [Resume if you need it](https://github.com/Manolith/Presentaci-n/blob/main/_CVMGB.docx.pdf) and feel free to contact me.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
