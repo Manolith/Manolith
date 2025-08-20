@@ -8,11 +8,9 @@ Hi, I'm Manuel González!
 
 ### 👨🏻‍💻 &nbsp;About me
 
-🎓&nbsp;I'm a passionate and motivated Computer Engineer with a strong focus on continuous learning. I graduated from Bernardo O'Higgins University, and I am always expanding my skills to cover a wide range of computer science areas.\
+I'm a passionate and motivated Computer Engineer with a strong focus on continuous learning. I graduated from Bernardo O'Higgins University, and I am always expanding my skills to cover a wide range of computer science areas.\
 \
 💡&nbsp;I'm a self-motivated programmer with a passion for continuous learning.\
-\
-🌱&nbsp;I'm actively expanding my skills to cover multiple areas of computer science.\
 \
 ✍️&nbsp;When I'm not coding, I enjoy reading and playing video games.  \
 \
