@@ -16,7 +16,7 @@ I'm a passionate and motivated Computer Engineer with a strong focus on continuo
 \
 ✉️&nbsp;You can email me at <a href="mailto:manulgb.mg@gmail.com"><img src="https://img.shields.io/badge/-manulgb.mg@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>.\
 \
-📄&nbsp;Feel free to check out my [Resume if you need it](https://github.com/Manolith/Manolith/blob/main/_CV%20MGB-FS.pdf) and contact me.
+📄&nbsp;Feel free to check out my [Resume if you need it](https://github.com/Manolith/Presentaci-n/blob/main/_CVMGB.docx.pdf) and contact me.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
