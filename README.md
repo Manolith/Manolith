@@ -14,7 +14,7 @@ I'm a passionate and motivated Computer Engineer with a strong focus on continuo
 \
 ✍️&nbsp;When I'm not coding, I enjoy reading and playing video games.  \
 \
-✉️&nbsp;You can email me at <a href="mailto:mgonzalezb.dev@gmail.com"><img src="https://img.shields.io/badge/-manulgb.mg@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>.\
+✉️&nbsp;You can email me at <a href="mailto:mgonzalezb.dev@gmail.com"><img src="https://img.shields.io/badge/-mgonzalezb.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>.\
 \
 📄&nbsp;Feel free to check out my [Resume if you need it](https://github.com/Manolith/Manolith/blob/main/_CV%20MGB-FS.pdf) and contact me.
 
